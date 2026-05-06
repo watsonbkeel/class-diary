@@ -12,6 +12,7 @@ server/node_modules/
 
 # Uploads and runtime data
 server/uploads/*
+!server/uploads/
 !server/uploads/.gitkeep
 uploads/
 logs/
